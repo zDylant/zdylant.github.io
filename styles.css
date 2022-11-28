@@ -1,0 +1,31 @@
+#bar {
+    width: 180px;
+    height: 100%;
+    position: fixed;
+    overflow-x: hidden;
+    background-color: #16161D;
+    text-align: center;
+    top: 0;
+
+}
+
+#bar a {
+    text-decoration: none;
+    display: block;
+    padding-top: 14px;
+    color: #DCD7BA; 
+    font-size: 16px;
+}
+
+#bar a:hover {
+    color: #957FB8;
+}
+
+body {
+    background-color: #1F1F28;
+}
+
+#content {
+    padding-left: 200px;
+    color: #DCD7BA;
+}
